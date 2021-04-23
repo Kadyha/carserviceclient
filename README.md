@@ -43,4 +43,4 @@ Permite ver una lista de propietarios. Este componente funciona igual que car-li
 
 ## Owner-edit 
 
-Permite crear y actualizar propietarios. Para lograrlo se uso como base el componente car-edit, y de igual forma se usaron los servicios de ambas API, para relacionarlas entre sí al crear un nuevo prietario.
+Permite crear y actualizar propietarios. Para lograrlo se uso como base el componente car-edit, y de igual forma se usaron los servicios de ambas API, para relacionarlas entre sí al crear un nuevo propietario.
